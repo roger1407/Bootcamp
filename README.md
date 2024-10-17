@@ -34,4 +34,7 @@ https://bootcamp3.netlify.app/
 
 ###
 
+### versão desktop
+![Capturar](https://github.com/user-attachments/assets/5d45965a-74dd-4072-b802-d00dc95fc904)
+
 
